@@ -1,0 +1,14 @@
+2 guess the no.:
+http://www.codeskulptor.org/#user29_oSWpLkPlVTg7otB.py
+3 Stopwatch:
+http://www.codeskulptor.org/#user29_yRGKMLzZUbaSqFh.py
+4 Pong :
+http://www.codeskulptor.org/#user30_0LYXdf2N3jcwztX.py
+5 Memory :
+http://www.codeskulptor.org/#user31_VkzTi7zyoyo4MbO.py
+6 BlackJack :
+http://www.codeskulptor.org/#user31_UKjd9NdxFJainto.py
+7 Spaceship :
+http://www.codeskulptor.org/#user32_SNCb7Mb9bXQHpZc.py
+8 RiceRocks (Asteroids) :
+http://www.codeskulptor.org/#user33_nepu6wlaEaxyQjR.py
